@@ -1,6 +1,8 @@
 # Candidate data (PII protection)
 data/
 config/
+dist/
+build/
 
 # OS files
 .DS_Store
