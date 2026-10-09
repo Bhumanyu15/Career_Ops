@@ -1,0 +1,18 @@
+name: "Sample Candidate"
+current_role: "Financial Analyst"
+current_company: "Example Analytics Co"
+primary_role: "Senior Financial Analyst"
+secondary_roles:
+  - "FP&A Manager"
+work_preference: "Hybrid"
+relocation_willingness: "No"
+work_authorization: "Authorized to work in the U.S."
+earliest_start_date: "2026-11-01"
+skills:
+  - "Financial modeling"
+  - "SQL"
+  - "Tableau"
+  - "Budget forecasting"
+proof_points:
+  - "Reduced monthly reporting cycle by 35% via SQL automation"
+  - "Built variance model supporting $45M budget planning"
